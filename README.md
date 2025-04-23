@@ -17,7 +17,7 @@ As técnicas e tecnologias utilizadas pra isso são:
 
 ## 📁 Acesso ao projeto
 
-`acesse pelo Link`: https:
+`acesse pelo Link`: https://pagina-meteora.vercel.app/
 
 ## Como me encontrar:
 
