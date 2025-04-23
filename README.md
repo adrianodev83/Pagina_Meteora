@@ -1,24 +1,23 @@
 ![Imagem de comclusão do curso de Bootstrap5 - crie uma landing page responsiva da Alura](https://i.imgur.com/vkgafcM.png)
 
-# Titulo do projeto
+# Título do Projeto
 
-Curso de Bootstrap5 - crie uma landing page responsiva da Alura.
+Curso de Bootstrap 5 - Crie uma landing page responsiva (Alura)
 
-## 🔨 Funcionalidades do projeto
+## 🔨 Funcionalidades do Projeto
 
-Desenvolvolvemos a Landing Page da Meteora um site ficticio da Alura de vendas de Roupas e Acessorios, com a utilização da ferramenta Bootstrap na versão 5 e da biblioteca Bootstrap 5, que facilita a criação de layouts responsivos e modernos.
+Desenvolvi a landing page da **Meteora**, um site fictício da Alura voltado à venda de roupas e acessórios. Utilizei o framework **Bootstrap 5**, que facilita a criação de layouts modernos e responsivos.
 
-## ✔️ Técnicas e tecnologias utilizadas
+## ✔️ Técnicas e Tecnologias Utilizadas
 
-As técnicas e tecnologias utilizadas pra isso são:
+- `HTML`: Estruturação dos elementos da página com foco na semântica e organização;
+- `CSS`: Estilização visual da aplicação;
+- `Bootstrap 5`: Responsividade e componentes prontos que otimizam o tempo de desenvolvimento.
 
-- `HTML`: criação dos elementos da tela e estruturação do layout, utilizando do Bootstrap 5 para facilitar a responsividade e o design;
-- `CSS`: estilização da aplicação;
+## 📁 Acesso ao Projeto
 
-## 📁 Acesso ao projeto
+Acesse o projeto completo aqui: [Link do Projeto](https://pagina-meteora.vercel.app/)
 
-`acesse pelo Link`: https://pagina-meteora.vercel.app/
+## 🌐 Como me Encontrar
 
-## Como me encontrar:
-
-- `LINKTR.EE`: https://linktr.ee/adrianodev83
+- [Meu Linktree](https://linktr.ee/adrianodev83)
